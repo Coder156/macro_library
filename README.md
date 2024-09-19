@@ -1,5 +1,5 @@
 # macro_library
-DO NOT use the autoclicker it is broken :(
+DO NOT use the autoclicker it is broken
 
 Here is the code for it
 import tkinter as tk
